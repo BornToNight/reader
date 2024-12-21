@@ -11,7 +11,7 @@
   - Основной сервис, front (postman) общается **ТОЛЬКО** с main. Включает в себя **docker-compose** и **k8s** конфиги.
 - writer - https://github.com/BornToNight/writer :5002
   - Микросервис для практики по работе с **Kafka**. Получает сообщения из Kafka и записывает в PostgreSQL.
-- :white_check_mark: **reader - https://github.com/BornToNight/reader :5003
+- :white_check_mark: **reader** - https://github.com/BornToNight/reader :5003
   - Микросервис для практики по работе с **gRPC**. **main** может отправить запрос в **reader**.
 - admin - https://github.com/BornToNight/admin :5004
   - Spring Admin UI для мониторинка сервисов.  
