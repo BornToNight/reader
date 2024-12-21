@@ -1,6 +1,6 @@
 # Backend Application with Top Stack for Microservices Architecture  
 ## Microservice - Reader  
-[![ru](https://img.shields.io/badge/lang-ru-green.svg)](https://github.com/BornToNight/reader/blob/reader/README.ru.md)
+[![ru](https://img.shields.io/badge/lang-ru-green.svg)](https://github.com/BornToNight/reader/blob/main/README.ru.md)
 
 The goal of this project is to practice with the most popular stack for Java/Kotlin developers (IMHO).
 
